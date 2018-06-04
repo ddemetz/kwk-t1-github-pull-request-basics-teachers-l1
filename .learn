@@ -7,5 +7,3 @@ resources:
 - 0
 
 parent_template: git@github.com:learn-co-curriculum/github-pull-request-basics.git
-
-pull request
