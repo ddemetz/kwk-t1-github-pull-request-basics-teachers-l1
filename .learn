@@ -1,9 +1,11 @@
 tags:
-  - readme
-  - git
+- readme
+- git
 languages:
-  - ruby
+- ruby
 resources:
-  - 0
+- 0
 
 parent_template: git@github.com:learn-co-curriculum/github-pull-request-basics.git
+
+pull request
